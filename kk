@@ -1,3 +1,0 @@
-
-C frnds
-hi
