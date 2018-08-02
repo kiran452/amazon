@@ -1,5 +1,1 @@
-#include<stdio.h>
-main()
-{
-	printf("30");
-}
+int height 40;
